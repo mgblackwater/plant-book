@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/plant-book/static/css/main.5f361e03.chunk.css",
+    "main.js": "/plant-book/static/js/main.72c93ddf.chunk.js",
+    "main.js.map": "/plant-book/static/js/main.72c93ddf.chunk.js.map",
+    "runtime-main.js": "/plant-book/static/js/runtime-main.a257bdf1.js",
+    "runtime-main.js.map": "/plant-book/static/js/runtime-main.a257bdf1.js.map",
+    "static/js/2.f68297fd.chunk.js": "/plant-book/static/js/2.f68297fd.chunk.js",
+    "static/js/2.f68297fd.chunk.js.map": "/plant-book/static/js/2.f68297fd.chunk.js.map",
+    "index.html": "/plant-book/index.html",
+    "precache-manifest.c98583a8a97a3f83d01c8c28d788f02a.js": "/plant-book/precache-manifest.c98583a8a97a3f83d01c8c28d788f02a.js",
+    "service-worker.js": "/plant-book/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/plant-book/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f68297fd.chunk.js.LICENSE.txt": "/plant-book/static/js/2.f68297fd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/plant-book/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a257bdf1.js",
+    "static/js/2.f68297fd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.72c93ddf.chunk.js"
+  ]
+}
