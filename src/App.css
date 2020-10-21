@@ -1,5 +1,15 @@
+body {
+  background-color: red;
+}
+
 .App {
   text-align: center;
+  background-image: url('./static/background.jpg');
+  background-color: rebeccapurple;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
 }
 
 .App-logo {
